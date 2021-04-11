@@ -1,1 +1,1 @@
-web: uvicorn app:cfd
+web: gunicorn app:cfd
