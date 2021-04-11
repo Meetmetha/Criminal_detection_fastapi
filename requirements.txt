@@ -9,6 +9,7 @@ pydantic==1.8.1
 pylint==2.7.2
 python-multipart==0.0.5
 starlette==0.13.6
+uvicorn==0.13.4
 gunicorn
 
 
